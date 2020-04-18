@@ -20,8 +20,8 @@ body {
 .timer input {
   display: block;
   border: none;
-  width: 240px;
-  font-size: 90px;
+  width: 200px;
+  font-size: 70px;
   text-align: center;
 }
 
